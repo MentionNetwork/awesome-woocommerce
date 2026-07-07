@@ -11,10 +11,7 @@ Everything for building and running a store with [WooCommerce](https://woocommer
 - [Developer Tools](#developer-tools)
 - [Extension Development](#extension-development)
 - [Themes](#themes)
-- [Payments & Checkout](#payments--checkout)
-- [Popular Extensions](#popular-extensions)
-- [Performance & Hosting](#performance--hosting)
-- [SEO & Marketing](#seo--marketing)
+- [Plugins](#plugins)
 - [Learning Resources](#learning-resources)
 - [Communities](#communities)
 - [Top Articles & Guides](#top-articles--guides)
@@ -56,40 +53,110 @@ Everything for building and running a store with [WooCommerce](https://woocommer
 
 ## Themes
 
+- [Checkout Block](https://woocommerce.com/document/woocommerce-store-editing/customizing-cart-and-checkout/checkout-block/) - Documentation for the block-based Checkout, its inner blocks and customization options.
 - [Classic Theme Developer Handbook](https://developer.woocommerce.com/docs/theming/theme-development/classic-theme-developer-handbook/) - Official guide to integrating WooCommerce into classic themes via hooks and template overrides.
 - [Storefront (GitHub)](https://github.com/woocommerce/storefront) - Actively maintained source repository for the Storefront theme.
 - [Storefront (WordPress.org)](https://wordpress.org/themes/storefront/) - Free flagship WooCommerce theme built by the core team with deep integration.
 - [Twenty Twenty-Five](https://wordpress.org/themes/twentytwentyfive/) - Current WordPress default block theme, compatible with WooCommerce block cart and checkout.
 
-## Payments & Checkout
+## Plugins
 
-- [Checkout Block](https://woocommerce.com/document/woocommerce-store-editing/customizing-cart-and-checkout/checkout-block/) - Documentation for the block-based Checkout, its inner blocks and customization options.
-- [WooCommerce PayPal Payments](https://wordpress.org/plugins/woocommerce-paypal-payments/) - Official PayPal integration offering PayPal, Venmo, Pay Later and card processing.
-- [WooCommerce Stripe Payment Gateway](https://wordpress.org/plugins/woocommerce-gateway-stripe/) - Official Stripe gateway built jointly by Stripe and WooCommerce for card and wallet payments.
-- [WooPayments](https://wordpress.org/plugins/woocommerce-payments/) - Official WooCommerce-native payment solution for accepting cards and managing payouts in-dashboard.
+The most popular, actively-maintained WooCommerce and WordPress plugins, grouped by use case.
 
-## Popular Extensions
+### Payments
 
-- [Google for WooCommerce](https://wordpress.org/plugins/google-listings-and-ads/) - Official free extension syncing product feeds to Google Shopping, Search and Ads.
-- [Meta (Facebook) for WooCommerce](https://wordpress.org/plugins/facebook-for-woocommerce/) - Official Meta integration for catalog sync and pixel setup across Facebook, Instagram and WhatsApp.
-- [Product Add-Ons](https://woocommerce.com/products/product-add-ons/) - Official extension for adding paid or free product customization fields.
-- [WooCommerce Bookings](https://woocommerce.com/products/woocommerce-bookings/) - Official extension for selling time- and date-based bookings, appointments and rentals.
-- [WooCommerce Subscriptions](https://woocommerce.com/products/woocommerce-subscriptions/) - Official extension enabling recurring payments and subscription products with automatic renewals.
+- [WooCommerce PayPal Payments](https://wordpress.org/plugins/woocommerce-paypal-payments/) - All-in-one gateway offering PayPal, Venmo, Pay Later and card payments.
+- [WooCommerce Square](https://wordpress.org/plugins/woocommerce-square/) - Official Square integration that processes payments and syncs inventory with Square POS.
+- [WooCommerce Stripe Gateway](https://wordpress.org/plugins/woocommerce-gateway-stripe/) - Official Stripe gateway accepting cards, digital wallets and buy-now-pay-later methods.
+- [WooPayments](https://wordpress.org/plugins/woocommerce-payments/) - WooCommerce-native gateway to accept cards with no monthly fees, built by Woo.
 
-## Performance & Hosting
+### Email & Marketing Automation
 
-- [LiteSpeed Cache](https://wordpress.org/plugins/litespeed-cache/) - All-in-one site acceleration plugin with server-level cache and front-end optimization.
+- [FunnelKit Automations](https://wordpress.org/plugins/wp-marketing-automations/) - Marketing automation and CRM engine for cart recovery, follow-ups and email sequences.
+- [Klaviyo](https://wordpress.org/plugins/klaviyo/) - Marketing automation powering personalized email and SMS using WooCommerce customer data.
+- [Mailchimp for WooCommerce](https://wordpress.org/plugins/mailchimp-for-woocommerce/) - Official integration syncing customer and purchase data for campaigns and cart recovery.
+- [MailPoet](https://wordpress.org/plugins/mailpoet/) - WordPress-integrated email tool for newsletters, subscribers and automated campaigns.
+
+### SEO
+
+- [All in One SEO](https://wordpress.org/plugins/all-in-one-seo-pack/) - Widely used SEO plugin with schema markup, XML sitemaps and keyword tracking.
+- [Rank Math SEO](https://wordpress.org/plugins/seo-by-rank-math/) - AI-powered SEO plugin with content optimization, schema and Search Console integration.
+- [Yoast SEO](https://wordpress.org/plugins/wordpress-seo/) - Comprehensive SEO plugin with real-time content analysis and schema optimization.
+
+### Reviews & UGC
+
+- [Customer Reviews for WooCommerce](https://wordpress.org/plugins/customer-reviews-woocommerce/) - Sends automated post-purchase email reminders to collect verified product reviews.
+- [Site Reviews](https://wordpress.org/plugins/site-reviews/) - Lets visitors submit star ratings and reviews shown like Amazon, TripAdvisor and Yelp.
+- [Yotpo Reviews](https://wordpress.org/plugins/yotpo-social-reviews-for-woocommerce/) - Collects and showcases reviews, photos and Q&A to build trust and lift conversions.
+
+### Subscriptions & Memberships
+
+- [Paid Memberships Pro](https://www.paidmembershipspro.com/) - Restricts content and manages member subscriptions with recurring payments and registration.
+- [WooCommerce Memberships](https://woocommerce.com/products/woocommerce-memberships/) - Restricts content and product access to members with discounts and drip-fed content.
+- [WooCommerce Subscriptions](https://woocommerce.com/products/woocommerce-subscriptions/) - Enables recurring payments so customers can subscribe on a weekly, monthly or annual basis.
+- [YITH WooCommerce Subscription](https://yithemes.com/themes/plugins/yith-woocommerce-subscription/) - Sells subscription-based products and services with recurring payments and free trials.
+
+### Bookings & Appointments
+
+- [Amelia](https://wordpress.org/plugins/ameliabooking/) - Automates appointment scheduling and event management for multiple business types.
+- [Bookly](https://wordpress.org/plugins/bookly-responsive-appointment-booking-tool/) - Online scheduling and appointment booking with custom forms, calendars and notifications.
+- [WooCommerce Bookings](https://woocommerce.com/products/woocommerce-bookings/) - Lets customers book appointments, make reservations or rent equipment through a store.
+
+### Product Management & Custom Fields
+
+- [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/) - Adds custom fields, post types and taxonomies to WordPress content without code.
+- [Advanced Product Fields for WooCommerce](https://wordpress.org/plugins/advanced-product-fields-for-woocommerce/) - Adds product option fields that let customers personalize products and adjust pricing.
+- [Meta Box](https://wordpress.org/plugins/meta-box/) - Developer framework for building custom fields and dynamic content with 40+ field types.
+- [Variation Swatches for WooCommerce](https://wordpress.org/plugins/woo-variation-swatches/) - Converts variation dropdowns into color, image and button swatches.
+
+### Page Builders
+
+- [Beaver Builder](https://wordpress.org/plugins/beaver-builder-lite-version/) - Front-end drag-and-drop page building for responsive WordPress layouts without code.
+- [Divi](https://www.elegantthemes.com/gallery/divi/) - Visual drag-and-drop theme and page builder with on-canvas editing and design systems.
+- [Elementor](https://wordpress.org/plugins/elementor/) - No-code drag-and-drop page builder for designing WordPress sites visually.
+- [SeedProd](https://wordpress.org/plugins/coming-soon/) - Builds landing pages, coming-soon pages and maintenance mode pages via drag-and-drop.
+
+### Search & Filtering
+
+- [Advanced Woo Search](https://wordpress.org/plugins/advanced-woo-search/) - AJAX product search across multiple fields with relevance scoring and fuzzy matching.
+- [FacetWP](https://facetwp.com/) - Advanced faceted filtering that refines archive and shop content instantly without reloads.
+- [FiboSearch](https://wordpress.org/plugins/ajax-search-for-woocommerce/) - Live AJAX product search with SKU search, images and pricing for WooCommerce.
+
+### Performance & Caching
+
+- [LiteSpeed Cache](https://wordpress.org/plugins/litespeed-cache/) - All-in-one site acceleration with server-level caching and front-end optimization.
 - [Redis Object Cache](https://wordpress.org/plugins/redis-cache/) - Persistent object cache backend powered by Redis, useful for reducing database load.
-- [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/) - Host-agnostic performance framework providing page, object and browser caching plus CDN.
-- [WP Rocket](https://wp-rocket.me/) - Premium caching and performance plugin widely used to speed up WooCommerce stores.
+- [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/) - Performance framework with page caching, minification, browser caching and CDN integration.
+- [WP Rocket](https://wp-rocket.me/) - Premium caching plugin that boosts load speed via page caching, preloading and lazy loading.
 
-## SEO & Marketing
+### Shipping & Tax
 
-- [Google Analytics for WooCommerce](https://wordpress.org/plugins/woocommerce-google-analytics-integration/) - Official plugin connecting WooCommerce to GA4 with ecommerce event and purchase tracking.
-- [Klaviyo for WooCommerce](https://wordpress.org/plugins/klaviyo/) - Official Klaviyo plugin for email and SMS marketing powered by store customer data.
-- [Mailchimp for WooCommerce](https://wordpress.org/plugins/mailchimp-for-woocommerce/) - Official Mailchimp integration syncing customers and orders for email marketing automation.
-- [Rank Math SEO](https://wordpress.org/plugins/seo-by-rank-math/) - Popular SEO plugin offering schema, keyword analysis and WooCommerce product optimization.
-- [Yoast SEO](https://wordpress.org/plugins/wordpress-seo/) - Widely used SEO plugin with WooCommerce-friendly content analysis, schema and XML sitemaps.
+- [Flexible Shipping](https://wordpress.org/plugins/flexible-shipping/) - Table-rate shipping that calculates costs based on cart weight, total or custom rules.
+- [WooCommerce Shipping](https://wordpress.org/plugins/woocommerce-shipping/) - Official plugin that prints discounted labels and compares live USPS, UPS and DHL rates.
+- [WooCommerce Tax](https://wordpress.org/plugins/woocommerce-services/) - Official plugin that automates sales tax calculation by jurisdiction at checkout.
+
+### Security & Backup
+
+- [Solid Security](https://wordpress.org/plugins/better-wp-security/) - Hardens logins with two-factor authentication, brute-force protection and scanning.
+- [UpdraftPlus](https://wordpress.org/plugins/updraftplus/) - Backs up, restores and migrates WordPress sites to cloud storage on a schedule.
+- [Wordfence Security](https://wordpress.org/plugins/wordfence/) - Endpoint firewall, malware scanning and login security with real-time threat intelligence.
+
+### Multilingual & Translation
+
+- [Polylang](https://wordpress.org/plugins/polylang/) - Builds multilingual WordPress sites with no limit on the number of languages.
+- [TranslatePress](https://wordpress.org/plugins/translatepress-multilingual/) - Front-end visual translation with manual editing or AI-powered automatic translation.
+- [WPML](https://wpml.org/) - Builds and manages multilingual WordPress and WooCommerce sites with AI or human translation.
+
+### Analytics
+
+- [Google Analytics for WooCommerce](https://wordpress.org/plugins/woocommerce-google-analytics-integration/) - Integrates GA4 with WooCommerce for conversion tracking and transaction analysis.
+- [Metorik](https://metorik.com/) - Real-time analytics, reporting, customer segmentation and email marketing for WooCommerce.
+- [MonsterInsights](https://wordpress.org/plugins/google-analytics-for-wordpress/) - Displays Google Analytics reports inside the WordPress dashboard with code-free tracking.
+
+### Import/Export
+
+- [WP All Export](https://wordpress.org/plugins/wp-all-export/) - Exports WordPress and WooCommerce data to custom CSV, XML and Excel files via drag-and-drop.
+- [WP All Import](https://wordpress.org/plugins/wp-all-import/) - Imports CSV, XML, Excel and Google Sheets data into posts, fields and WooCommerce products.
 
 ## Learning Resources
 
