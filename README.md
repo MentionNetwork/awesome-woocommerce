@@ -109,6 +109,8 @@ The most popular, actively-maintained WooCommerce and WordPress plugins, grouped
 - [Meta Box](https://wordpress.org/plugins/meta-box/) - Developer framework for building custom fields and dynamic content with 40+ field types.
 - [Variation Swatches for WooCommerce](https://wordpress.org/plugins/woo-variation-swatches/) - Converts variation dropdowns into color, image and button swatches.
 
+- [VilaHub for WooCommerce](https://wordpress.org/plugins/vilahub-for-woocommerce/) - Connects a WooCommerce catalog to the VilaHub service for marketplace authorization, reviewed product transmission, inventory authority and separate marketplace order records.
+
 ### Page Builders
 
 - [Beaver Builder](https://wordpress.org/plugins/beaver-builder-lite-version/) - Front-end drag-and-drop page building for responsive WordPress layouts without code.
